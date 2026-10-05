@@ -5,7 +5,7 @@ This lab demonstrates how to manage JavaFX dependencies with Maven,
 run a basic desktop application, and generate project documentation.
 
 ## Requirements
-- JDK 25
+- JDK 21
 - Apache Maven
 - JavaFX 23, downloaded automatically by Maven
 
